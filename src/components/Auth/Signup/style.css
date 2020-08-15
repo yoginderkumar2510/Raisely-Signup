@@ -1,0 +1,36 @@
+.CreateAccount {
+  color: rgb(97, 56, 216);;
+  letter-spacing: -0.18px;
+  font-weight: 700 !important;
+  font-size: 35px !important;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.CardContentContainer {
+  padding: 50px 70px;
+}
+
+.TextFeildContainer {
+  padding-bottom: 30px;
+}
+
+.TextFeild {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  font-size: 20px !important;
+}
+
+.SignupButton {
+  background-color: rgb(67, 44, 179) !important;
+  font-weight: bold !important;
+  border-radius: 40px !important; 
+  font-size: 13px !important;
+  color: white !important; 
+  margin-top: 2% !; 
+  margin-right: 4% !important;
+  width: calc(100% - 25px);
+  margin: calc(12.5px);
+  padding-top: 15px !important;
+  padding-bottom: 15px !important;
+}
